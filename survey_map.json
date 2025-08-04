@@ -1,0 +1,53 @@
+{
+    "Intake Lunar Regolith Module": {
+        "Exposure to Dust": "O1",
+        "Dust production": "O2",
+        "Longevity": "O3",
+        "Reliability": "O4",
+        "Power": "O5",
+        "Mass": "O6",
+        "Complexity": "O7",
+        "Delivery flow rate": "O8",
+        "Regolith compaction": "O9"
+    },
+
+    "Deploy Empty RCU Module": {
+        "Exposure to Dust": "O1",
+        "Longevity": "O2",
+        "Reliability": "O3",
+        "Power": "O4",
+        "Mass": "O5",
+        "Complexity": "O6",
+        "Transport speed": "O7",
+        "Storage volume": "O8"
+    },
+
+    "Interface with and Secure RCU Module": {
+        "Exposure to Dust": "O1",
+        "Dust production": "O2",
+        "Longevity": "O3",
+        "Reliability": "O4",
+        "Power": "O5",
+        "Mass": "O6",
+        "Complexity": "O7",
+        "Attachment force": "O8",
+        "Rigid attachment": "O9",
+        "Attachment points": "O10",
+        "Attachment speed": "O11"
+    },
+
+    "Transport RCU to Desired Pose Module": {
+        "Exposure to Dust": "O1",
+        "Dust production": "O2",
+        "Longevity": "O3",
+        "Reliability": "O4",
+        "Power": "O5",
+        "Mass": "O6",
+        "Complexity": "O7",
+        "Workspace": "O8",
+        "Manipulation accuracy": "O9",
+        "Manipulation resolution": "O10",
+        "Dexterity": "O11",
+        "Structural rigidity": "O12"
+    }
+}
